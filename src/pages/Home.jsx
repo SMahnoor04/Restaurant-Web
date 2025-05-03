@@ -2,7 +2,7 @@ import React from 'react'
 import Slider from '../components/Slider'
 import ServicesCards from '../components/ServicesCards'
 import AboutSec from '../components/AboutSec'
-import Card from '../components/card'
+import Card from '../components/Card'
 // import Marqueetag from '../components/Marqueetag'
 
 
