@@ -20,7 +20,7 @@ const Card = () => {
         </div>
         <motion.div
           whileInView={{
-            // rotate:[0,20,0]
+            rotate:[0,20,0]
           }}
 
           whileHover={{
